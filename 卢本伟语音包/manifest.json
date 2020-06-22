@@ -1,0 +1,114 @@
+{
+    "name": "Lu Benwei",
+    "display-name": "卢本伟语音包 (ZH)",
+    "version": "0.0.1",
+    "avatar": "avatar.jpg",
+    "avatar-dark":"avatar.jpg",
+    "author": "Surager",
+    "gender": "male",
+    "locale": "zh",
+    "description": "与卢姥爷一起享受编程的乐趣",
+    "languages": [
+        "c",
+        "cpp"
+    ],
+    "contributes": [
+        {
+        	"keywords": ["main","class","template"],
+        	"voices": [
+        		"卢本伟广场.mp3",
+        		"伞兵一号.mp3",
+        		"我们一般只会用两个字来形容这种人 赌怪.mp3"
+        	]
+        },
+        {
+        	"keywords": "int",
+        	"voices": [
+        		"单走一个六 傻逼 走K.mp3",
+        		"把k换成狗叫绝杀.mp3",
+        		"5000人民币哥们.wav"
+        	]
+        },
+        {
+        	"keywords":"void",
+        	"voices":[
+        		"你喜欢搞事兄弟.mp3"
+        	]
+        },
+        {
+        	"keywords": "if",
+        	"voices": [
+        		"十七张牌你能秒我---.mp3",
+        		"这把我理性分析一下.mp3",
+        		"我这把要赢你很轻松.mp3"
+        	]
+        },
+        {
+        	"keywords": ["for","while"],
+        	"voices":[
+        		"得得得得得得得得得得得.mp3",
+        		"卢本伟牛逼x10.mp3",
+        		"番茄连招.mp3"
+        	]
+        },
+        {
+        	"keywords": ["char"],
+        	"voices":"给阿姨倒杯茶，给阿姨倒杯卡布奇诺.mp3"
+        },
+        {
+        	"keywords":["try","catch"],
+        	"voices":[
+        		"试一下好吧.mp3",
+        		"哎呀很烦，什么都捡不到.mp3",
+        		"把k换成狗叫绝杀.mp3"
+        	]
+        },
+        {
+        	"keywords":["switch","case"],
+        	"voices":[
+        		"完了选错技能.mp3",
+        		"不是很难选吧.mp3",
+        		"应该是能选的出来的吧.mp3"
+        	]
+        },
+        {
+        	"keywords":["break","continue"],
+        	"voices":[
+        		"漂亮4.mp3",
+        		"漂亮5.mp3"
+        	]
+        },
+        {
+        	"keywords":["new"],
+        	"voices":[
+        		"女孩子得自信一点.mp3",
+        		"真的对女孩子好一点.mp3",
+        		"你有男朋友吗.mp3"
+        	]
+        },
+        {
+        	"keywords":["delete"],
+        	"voices":[
+        		"什么都比他好的女朋友.mp3"
+        	]
+        },
+        {
+        	"keywords":["public"],
+        	"voices":[
+        		"我现在对天发誓.mp3"
+        	]
+        },
+        {
+        	"keywords":["private","protected"],
+        	"voices":[
+        		"我卢本伟没有开挂.mp3"
+        	]
+        },
+        {
+        	"keywords":["return"],
+        	"voices":[
+        		"今天卢本伟回归.mp3"
+        	]
+        }
+    ]
+}
